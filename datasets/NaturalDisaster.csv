@@ -1,4 +1,4 @@
-Year,Disaster Subgroup,Disaster Type,Disaster Subtype,Country,Region,Dis Mag Value,Total Deaths,No Injured,No Suffered,No Homeless,Total Affected,CPI
+Year,Disaster Subgroup,Disaster Type,Disaster Subtype,Country Name,Region,Dis Mag Value,Total Deaths,No Injured,No Suffered,No Homeless,Total Affected,CPI
 1922,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,8,5,0,0,417,417,6.561914634
 1923,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,143000,103733,100000,0,203733,6.679324638
 1924,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,60,0,0,1140,1140,6.718461305
