@@ -1,0 +1,118 @@
+Disaster Subtype,Country Name,Total Deaths
+Coastal flood,Bangladesh,1
+Coastal flood,Philippines (the),3
+Coastal flood,Viet Nam,2
+Convective storm,Bangladesh,10
+Convective storm,China,4
+Convective storm,India,3
+Convective storm,Indonesia,1
+Convective storm,Japan,3
+Convective storm,Syrian Arab Republic,2
+Flash flood,Afghanistan,9
+Flash flood,Bangladesh,5
+Flash flood,Cambodia,1
+Flash flood,China,11
+Flash flood,Georgia,2
+Flash flood,India,7
+Flash flood,Indonesia,17
+Flash flood,Iran (Islamic Republic of),7
+Flash flood,Iraq,1
+Flash flood,Japan,1
+Flash flood,Kazakhstan,2
+Flash flood,Korea (the Democratic People's Republic of),4
+Flash flood,Korea (the Republic of),7
+Flash flood,Kyrgyzstan,1
+Flash flood,Malaysia,2
+Flash flood,Mongolia,1
+Flash flood,Nepal,3
+Flash flood,Pakistan,10
+Flash flood,Philippines (the),12
+Flash flood,Saudi Arabia,1
+Flash flood,Sri Lanka,7
+Flash flood,Taiwan (Province of China),1
+Flash flood,Tajikistan,3
+Flash flood,Thailand,8
+Flash flood,Turkey,5
+Flash flood,Viet Nam,9
+Flash flood,Yemen,3
+Ground movement,Afghanistan,23
+Ground movement,Azerbaijan,3
+Ground movement,Bangladesh,7
+Ground movement,Bhutan,2
+Ground movement,China,75
+Ground movement,Cyprus,1
+Ground movement,Georgia,3
+Ground movement,India,15
+Ground movement,Indonesia,76
+Ground movement,Iran (Islamic Republic of),65
+Ground movement,Iraq,2
+Ground movement,Japan,26
+Ground movement,Kazakhstan,1
+Ground movement,Kyrgyzstan,3
+Ground movement,Malaysia,1
+Ground movement,Myanmar,3
+Ground movement,Nepal,5
+Ground movement,Pakistan,26
+Ground movement,Philippines (the),21
+Ground movement,Taiwan (Province of China),10
+Ground movement,Tajikistan,5
+Ground movement,Thailand,2
+Ground movement,Turkey,35
+Ground movement,Uzbekistan,1
+Ground movement,Yemen,1
+Ground movement,Yemen Arab Rep,1
+Riverine flood,Afghanistan,22
+Riverine flood,Bangladesh,7
+Riverine flood,Cambodia,3
+Riverine flood,China,54
+Riverine flood,Georgia,3
+Riverine flood,India,42
+Riverine flood,Indonesia,41
+Riverine flood,Iran (Islamic Republic of),17
+Riverine flood,Iraq,1
+Riverine flood,Japan,5
+Riverine flood,Kazakhstan,3
+Riverine flood,Korea (the Democratic People's Republic of),3
+Riverine flood,Korea (the Republic of),3
+Riverine flood,Lao People's Democratic Republic (the),2
+Riverine flood,Malaysia,6
+Riverine flood,Myanmar,5
+Riverine flood,Nepal,9
+Riverine flood,Pakistan,14
+Riverine flood,"Palestine, State of",1
+Riverine flood,Philippines (the),21
+Riverine flood,Saudi Arabia,3
+Riverine flood,Sri Lanka,18
+Riverine flood,Taiwan (Province of China),3
+Riverine flood,Tajikistan,6
+Riverine flood,Thailand,8
+Riverine flood,Timor-Leste,2
+Riverine flood,Turkey,8
+Riverine flood,Viet Nam,29
+Riverine flood,Yemen,6
+Riverine flood,Yemen P Dem Rep,1
+Tropical cyclone,Bangladesh,21
+Tropical cyclone,China,22
+Tropical cyclone,Hong Kong,6
+Tropical cyclone,India,16
+Tropical cyclone,Indonesia,1
+Tropical cyclone,Iran (Islamic Republic of),1
+Tropical cyclone,Japan,44
+Tropical cyclone,Korea (the Democratic People's Republic of),1
+Tropical cyclone,Korea (the Republic of),10
+Tropical cyclone,Malaysia,2
+Tropical cyclone,Myanmar,3
+Tropical cyclone,Oman,2
+Tropical cyclone,Pakistan,1
+Tropical cyclone,Philippines (the),63
+Tropical cyclone,Sri Lanka,2
+Tropical cyclone,Taiwan (Province of China),16
+Tropical cyclone,Thailand,1
+Tropical cyclone,Viet Nam,19
+Tsunami,India,1
+Tsunami,Indonesia,8
+Tsunami,Japan,5
+Tsunami,Malaysia,1
+Tsunami,Maldives,1
+Tsunami,Myanmar,1
+Tsunami,Thailand,1
